@@ -30,8 +30,9 @@ function handleDropEvent( event, ui ) {
   	$(draggable).addClass("correct");
   };
 
-  if (draggable.hasClass("correct")) {
+  if ($('.square1').hasClass("correct") && $('.square2').hasClass("correct") && $('.square3').hasClass("correct") && $('.square4').hasClass("correct")) {
     alert("hello");
+    document.getElementById('video').play();
   };
 
   
