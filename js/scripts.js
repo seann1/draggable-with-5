@@ -4,6 +4,8 @@ $( init );
 function init() {
   $('.square1, .square2, .square3, .square4').draggable({
   	cursor: 'move',
+    stack: '.ui-draggable',
+    snap: '.dest'
 
   });
 
@@ -31,7 +33,6 @@ function handleDropEvent( event, ui ) {
   };
 
   if ($('.square1').hasClass("correct") && $('.square2').hasClass("correct") && $('.square3').hasClass("correct") && $('.square4').hasClass("correct")) {
-    alert("hello");
     document.getElementById('video').play();
   };
 
