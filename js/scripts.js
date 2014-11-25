@@ -30,6 +30,7 @@ function handleDropEvent( event, ui ) {
 
   if (destNumber == boxNumber) {
   	$(draggable).addClass("correct");
+    draggable.draggable( 'disable' );
   };
 
   if ($('.square1').hasClass("correct") && $('.square2').hasClass("correct") && $('.square3').hasClass("correct") && $('.square4').hasClass("correct")) {

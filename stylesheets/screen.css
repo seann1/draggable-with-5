@@ -117,8 +117,8 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 /* line 53, ../sass/screen.scss */
 .destination1, .destination2, .destination3, .destination4 {
-  height: 110px;
-  width: 110px;
+  height: 100px;
+  width: 100px;
   background-color: #00e077;
   margin: 10px;
   z-index: 0;
@@ -127,4 +127,14 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 /* line 61, ../sass/screen.scss */
 #video {
   margin-top: 100px;
+}
+
+/* line 65, ../sass/screen.scss */
+h1 {
+  font-size: 60px;
+}
+
+/* line 69, ../sass/screen.scss */
+.header {
+  text-align: center;
 }
