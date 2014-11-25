@@ -138,3 +138,8 @@ h1 {
 .header {
   text-align: center;
 }
+
+/* line 73, ../sass/screen.scss */
+.answer {
+  background-color: red;
+}
