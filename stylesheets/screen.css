@@ -83,7 +83,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 .square2 {
   height: 100px;
   width: 100px;
-  background-color: #c9c9c9;
+  background-color: #ddd9d9;
   margin: 10px;
   border-width: 5px;
   border-style: solid;
@@ -95,7 +95,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 .square3 {
   height: 100px;
   width: 100px;
-  background-color: #6d6d6d;
+  background-color: #848484;
   margin: 10px;
   border-width: 5px;
   border-style: solid;
@@ -107,6 +107,18 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 .square4 {
   height: 100px;
   width: 100px;
+  background-color: #5b5b5b;
+  margin: 10px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black;
+  z-index: 1;
+}
+
+/* line 52, ../sass/screen.scss */
+.square5 {
+  height: 100px;
+  width: 100px;
   background-color: black;
   margin: 10px;
   border-width: 5px;
@@ -115,7 +127,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   z-index: 1;
 }
 
-/* line 53, ../sass/screen.scss */
+/* line 64, ../sass/screen.scss */
 .destination1, .destination2, .destination3, .destination4 {
   height: 100px;
   width: 100px;
@@ -124,22 +136,22 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   z-index: 0;
 }
 
-/* line 61, ../sass/screen.scss */
+/* line 72, ../sass/screen.scss */
 #video {
   margin-top: 100px;
 }
 
-/* line 65, ../sass/screen.scss */
+/* line 76, ../sass/screen.scss */
 h1 {
   font-size: 60px;
 }
 
-/* line 69, ../sass/screen.scss */
+/* line 80, ../sass/screen.scss */
 .header {
   text-align: center;
 }
 
-/* line 73, ../sass/screen.scss */
+/* line 84, ../sass/screen.scss */
 .answer {
   background-color: red;
 }
