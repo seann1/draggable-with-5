@@ -5,7 +5,7 @@
 
 @import "compass/reset";
 
-.square1 {
+.one {
 	height: 100px;
 	width: 100px;
 	background-color: white;
@@ -16,7 +16,7 @@
 	z-index: 1;
 }
 
-.square2 {
+.two {
 	height: 100px;
 	width: 100px;
 	background-color: #ddd9d9;
@@ -27,7 +27,7 @@
 	z-index: 1;
 }
 
-.square3 {
+.three {
 	height: 100px;
 	width: 100px;
 	background-color: #848484;
@@ -38,7 +38,7 @@
 	z-index: 1;
 }
 
-.square4 {
+.four {
 	height: 100px;
 	width: 100px;
 	background-color: #5b5b5b;
@@ -49,7 +49,7 @@
 	z-index: 1;
 }
 
-.square5 {
+.five {
 	height: 100px;
 	width: 100px;
 	background-color: black;
@@ -61,7 +61,7 @@
 }
 
 
-.destination1, .destination2, .destination3, .destination4 {
+.destination1, .destination2, .destination3, .destination4, .destination5 {
 	height: 100px;
 	width: 100px;
 	background-color: #00e077;

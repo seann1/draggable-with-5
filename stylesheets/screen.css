@@ -68,7 +68,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 /* line 8, ../sass/screen.scss */
-.square1 {
+.one {
   height: 100px;
   width: 100px;
   background-color: white;
@@ -80,7 +80,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 /* line 19, ../sass/screen.scss */
-.square2 {
+.two {
   height: 100px;
   width: 100px;
   background-color: #ddd9d9;
@@ -92,7 +92,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 /* line 30, ../sass/screen.scss */
-.square3 {
+.three {
   height: 100px;
   width: 100px;
   background-color: #848484;
@@ -104,7 +104,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 /* line 41, ../sass/screen.scss */
-.square4 {
+.four {
   height: 100px;
   width: 100px;
   background-color: #5b5b5b;
@@ -116,7 +116,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 /* line 52, ../sass/screen.scss */
-.square5 {
+.five {
   height: 100px;
   width: 100px;
   background-color: black;
@@ -128,7 +128,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 /* line 64, ../sass/screen.scss */
-.destination1, .destination2, .destination3, .destination4 {
+.destination1, .destination2, .destination3, .destination4, .destination5 {
   height: 100px;
   width: 100px;
   background-color: #00e077;
