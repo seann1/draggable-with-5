@@ -69,11 +69,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 /* line 8, ../sass/screen.scss */
 .one {
-  height: 100px;
-  width: 100px;
+  height: 50px;
+  width: 50px;
   background-color: white;
   margin: 10px;
-  border-width: 5px;
+  border-width: 2px;
   border-style: solid;
   border-color: black;
   z-index: 1;
@@ -81,11 +81,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 /* line 19, ../sass/screen.scss */
 .two {
-  height: 100px;
-  width: 100px;
+  height: 50px;
+  width: 50px;
   background-color: #ddd9d9;
   margin: 10px;
-  border-width: 5px;
+  border-width: 2px;
   border-style: solid;
   border-color: black;
   z-index: 1;
@@ -93,11 +93,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 /* line 30, ../sass/screen.scss */
 .three {
-  height: 100px;
-  width: 100px;
+  height: 50px;
+  width: 50px;
   background-color: #848484;
   margin: 10px;
-  border-width: 5px;
+  border-width: 2px;
   border-style: solid;
   border-color: black;
   z-index: 1;
@@ -105,11 +105,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 /* line 41, ../sass/screen.scss */
 .four {
-  height: 100px;
-  width: 100px;
+  height: 50px;
+  width: 50px;
   background-color: #5b5b5b;
   margin: 10px;
-  border-width: 5px;
+  border-width: 2px;
   border-style: solid;
   border-color: black;
   z-index: 1;
@@ -117,11 +117,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 /* line 52, ../sass/screen.scss */
 .five {
-  height: 100px;
-  width: 100px;
+  height: 50px;
+  width: 50px;
   background-color: black;
   margin: 10px;
-  border-width: 5px;
+  border-width: 2px;
   border-style: solid;
   border-color: black;
   z-index: 1;
@@ -129,8 +129,8 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 /* line 64, ../sass/screen.scss */
 .destination1, .destination2, .destination3, .destination4, .destination5 {
-  height: 100px;
-  width: 100px;
+  height: 50px;
+  width: 50px;
   background-color: #00e077;
   margin: 10px;
   z-index: 0;
@@ -143,7 +143,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 /* line 76, ../sass/screen.scss */
 h1 {
-  font-size: 60px;
+  font-size: 40px;
 }
 
 /* line 80, ../sass/screen.scss */

@@ -6,55 +6,55 @@
 @import "compass/reset";
 
 .one {
-	height: 100px;
-	width: 100px;
+	height: 50px;
+	width: 50px;
 	background-color: white;
 	margin: 10px;
-	border-width: 5px;
+	border-width: 2px;
 	border-style: solid;
 	border-color: black;
 	z-index: 1;
 }
 
 .two {
-	height: 100px;
-	width: 100px;
+	height: 50px;
+	width: 50px;
 	background-color: #ddd9d9;
 	margin: 10px;
-	border-width: 5px;
+	border-width: 2px;
 	border-style: solid;
 	border-color: black;
 	z-index: 1;
 }
 
 .three {
-	height: 100px;
-	width: 100px;
+	height: 50px;
+	width: 50px;
 	background-color: #848484;
 	margin: 10px;
-	border-width: 5px;
+	border-width: 2px;
 	border-style: solid;
 	border-color: black;
 	z-index: 1;
 }
 
 .four {
-	height: 100px;
-	width: 100px;
+	height: 50px;
+	width: 50px;
 	background-color: #5b5b5b;
 	margin: 10px;
-	border-width: 5px;
+	border-width: 2px;
 	border-style: solid;
 	border-color: black;
 	z-index: 1;
 }
 
 .five {
-	height: 100px;
-	width: 100px;
+	height: 50px;
+	width: 50px;
 	background-color: black;
 	margin: 10px;
-	border-width: 5px;
+	border-width: 2px;
 	border-style: solid;
 	border-color: black;
 	z-index: 1;
@@ -62,8 +62,8 @@
 
 
 .destination1, .destination2, .destination3, .destination4, .destination5 {
-	height: 100px;
-	width: 100px;
+	height: 50px;
+	width: 50px;
 	background-color: #00e077;
 	margin: 10px;
 	z-index: 0;
@@ -74,7 +74,7 @@
 }
 
 h1 {
-	font-size: 60px;
+	font-size: 40px;
 }
 
 .header {
