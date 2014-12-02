@@ -24,7 +24,8 @@ $( init );
 function init() {
   $('.square1, .square2, .square3, .square4, .square5').draggable({
   	cursor: 'move',
-    stack: '.ui-draggable'
+    stack: '.ui-draggable',
+    revert: true
 
   });
 
@@ -52,6 +53,7 @@ function handleDropEvent( event, ui ) {
     $(draggable).addClass("answer");
     draggable.draggable( 'disable' );
     $(this).droppable( 'disable' );
+    ui.draggable.draggable( 'option', 'revert', false );
     draggable.position( { of: $(this), my: 'left top', at: 'left top' } );
   };
 
